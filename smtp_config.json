@@ -1,0 +1,11 @@
+{
+  "service" : "wedocare",
+  "host" : "smtp.exmail.qq.com",
+  "secureConnection": true,
+  "port" : 465,
+  "auth" :
+  {
+    "user" : "jianyanshuju@wedocare.com",
+    "pass" : "HSK123"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name":"good_doctor",
+  "version": "0.0.1",
+  "dependencies": {
+    "superagent":"*",
+    "jquery":"1.6.3",
+    "moment":"*"
+
+  }
+}
